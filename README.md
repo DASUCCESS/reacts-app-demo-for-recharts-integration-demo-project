@@ -1,18 +1,43 @@
-# Getting Started with Create React App
+# Getting Started with Create React App for Recharts Demo 
+This is a demo React app that uses Recharts to display a bar chart, pie chart, and line chart using data from a local file.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Installation
+To install the dependencies, run:
+
 
 ## Available Scripts
 
-In the project directory, you can run:
+## Usage
 
+To start the development server, run:
 ### `npm start`
-
-Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
+
+**  Step 1: Create a new React app
+First, create a new React app using create-react-app. Open your terminal and run the following command:
+
+### `npx create-react-app recharts-demo`
+This will create a new React app in a directory called recharts-demo. 
+
+##Navigate to the project directory:
+
+## `cd recharts-demo`
+
+**Step 2: Install Recharts
+
+Next, install the Recharts library using npm:
+
+### `npm install recharts`
+Runs the app in the development mode.\
+
+** Step 3: Create the Charts data <br>
+** Step 4: Create the charts itself 
+
+Follow the file folder guide in the repo and  you will be good to go
+
 
 ### `npm test`
 
